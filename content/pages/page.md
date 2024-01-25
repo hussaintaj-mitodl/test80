@@ -10,3 +10,5 @@ This is {{% resource_link "27f59991-8869-44d1-bd27-9c3d77c800ac" "**Google**" %}
 This is Google as a link shortcode.
 
 The following is an image embedded as resource\_link
+
+{{% resource_link "fdd9274a-9eac-4fe5-b83d-2141ade9d26f" "Image Linked" %}}
