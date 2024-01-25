@@ -11,3 +11,7 @@ leftnav:
   name: image
   pageRef: /links/image
   weight: 30
+- identifier: c3916dd8-4e24-40d6-a3f2-bc608fade96b
+  name: broken google
+  pageRef: /links/borken-google
+  weight: 40
