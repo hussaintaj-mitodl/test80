@@ -19,4 +19,4 @@ The following is an image embedded as link
 
  
 
-This link is broken, supposed to go to google.com but goes to youtube.com.
+{{% resource_link "c3916dd8-4e24-40d6-a3f2-bc608fade96b" "This link" %}} is broken, supposed to go to google.com but goes to youtube.com because that's the backup URL I set for testing.

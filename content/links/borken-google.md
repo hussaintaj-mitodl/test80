@@ -1,8 +1,8 @@
 ---
-backup_url: ''
+backup_url: https://www.youtube.com/watch?v=mGJ1HWhNU0g
 content_type: link
 external_url: https://google.com
-is_broken: ''
+is_broken: true
 is_image: false
 license: externally-managed
 title: Borken Google
