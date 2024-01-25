@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test80"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test80"
+  },
+  "course_title": "test80",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test80"
+  },
+  "learning_resource_types": [],
+  "site_uid": "0f99662c-9df3-4cc7-9ad0-48f92d8ede83",
+  "site_short_id": "test80"
+}
