@@ -15,3 +15,7 @@ leftnav:
   name: broken google
   pageRef: /links/borken-google
   weight: 40
+- identifier: ac24d1f9-3a32-41d8-b168-4c77e2cdcf02
+  name: res
+  pageRef: /lists/res
+  weight: 50
