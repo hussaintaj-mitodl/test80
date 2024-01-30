@@ -1,21 +1,9 @@
 leftnav:
-- identifier: 8ae51073-ba25-4f26-9d50-86ec0e189c7d
-  name: page
-  pageRef: /pages/page
-  weight: 10
 - identifier: 27f59991-8869-44d1-bd27-9c3d77c800ac
   name: google
   pageRef: /links/google
+  weight: 10
+- identifier: a1adb31c-9da8-4c70-b7c8-c35f5da1b981
+  name: External Blog
+  pageRef: /external-resources/an-external-blog
   weight: 20
-- identifier: fdd9274a-9eac-4fe5-b83d-2141ade9d26f
-  name: image
-  pageRef: /links/image
-  weight: 30
-- identifier: c3916dd8-4e24-40d6-a3f2-bc608fade96b
-  name: broken google
-  pageRef: /links/borken-google
-  weight: 40
-- identifier: ac24d1f9-3a32-41d8-b168-4c77e2cdcf02
-  name: res
-  pageRef: /lists/res
-  weight: 50
